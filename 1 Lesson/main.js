@@ -11,15 +11,15 @@ console.log('november')
 
 // 2 exercise
 
-console.log("добро " + "пожаловать " + "на " + "курс, " + "Максим Киракосян!" )
+//console.log("добро " + "пожаловать " + "на " + "курс, " + "Максим Киракосян!" )
 
 // 3 exercise
 
-alert("11.08.2022")
+//alert("11.08.2022")
 
 // 4 exercise
 
-document.getElementById("one").innerHTML = "hello world"
+document.getElementById("one").innerHTML = 1234
 
 // 5 exercise 
 
@@ -39,3 +39,8 @@ console.log(undefined)
 
 let Check = "true"
 console.log(Check)
+
+//    lession 3
+
+document.getElementById("one").innerHTML = "hello"
+document.getElementById("one").innerHTML = '<h0>ANIME</h0>'
